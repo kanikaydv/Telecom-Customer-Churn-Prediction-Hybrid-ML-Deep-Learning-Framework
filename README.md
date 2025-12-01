@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Prediction-Hybrid-ML-Deep-Learning-Framework
+# Telecom Customer Churn Prediction
 This project presents a comprehensive churn-prediction pipeline built using classical machine-learning models, deep-learning architectures, and a hybrid LSTM–Transformer + XGBoost framework.
 The system is designed to analyze structured customer data from the IBM Telco Customer Churn dataset and produce actionable churn insights, model explanations, uplift estimates, and customer-level counterfactual reasoning.
 
