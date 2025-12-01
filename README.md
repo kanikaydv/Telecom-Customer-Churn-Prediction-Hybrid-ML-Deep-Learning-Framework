@@ -45,24 +45,6 @@ It contains:
 Mixed categorical & numerical attributes
 Binary churn labels
 
-->Project Architecture
-├── data/
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── classic_models.ipynb
-│   ├── deep_learning.ipynb
-│   ├── hybrid_lstm_transformer.ipynb
-│   ├── interpretability.ipynb
-│   └── uplift_counterfactuals.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── models.py
-│   ├── transformers.py
-│   ├── evaluation.py
-│   ├── interpretability.py
-│   └── utils.py
-└── README.md
-
 ->Tech Stack
 Python 3.10
 NumPy, Pandas
